@@ -3,7 +3,7 @@ name: Terraform CI/CD on AWS
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   terraform:

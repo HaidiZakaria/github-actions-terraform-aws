@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.pem
+*.zip
+*.tfstate.backup
+id_rsa
